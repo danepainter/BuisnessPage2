@@ -1,4 +1,13 @@
 :root {
+
+  /* Color Palette */
+  --color-primary: #cd1c18;
+  --color-secondary: #ffa896;
+  --color-tertiary: #9b1313;
+  --color-background: #38000A;
+
+
+  
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
